@@ -1,6 +1,6 @@
 # employee-tasker-client
 
-> A Vue.js project
+> A Vue.js project for employee tasking
 
 ## Build Setup
 
